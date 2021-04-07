@@ -1,0 +1,6 @@
+EthertoteToken contract address - 
+TokenBurn address - 
+TeamEth address - 
+TeamTokens address - 
+EthRaised address - 
+TokenSale address - 
