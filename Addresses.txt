@@ -1,5 +1,5 @@
 EthertoteToken contract address - 
-TokenBurn address - 
+TokenBurn address - 0x30171d518E3627E2006C9645d63e2a0A60F50f99
 TeamEth address - 
 TeamTokens address - 
 EthRaised address - 
